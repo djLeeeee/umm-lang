@@ -4,7 +4,7 @@
 
 #### *1일 1엄을 목표로 !!!*
 
-![1등](README.assets/1등.PNG)
+[엄준식 랭크 확인](https://www.acmicpc.net/ranklist/language/112)
 
 2022년 2월 6일 감동의 1등 달성
 
